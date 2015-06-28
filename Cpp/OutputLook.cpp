@@ -10,9 +10,9 @@
    Guide       : Santhosh
    Description : Colour code definitions and printline funtions.
   
- This file source file is a part of StarTravels Project.
- This project was developed by Tcs Hyderabad ILP's HYD 17-H78 LG (Jan 6 2014)
- Our Project Team is Known as V8Engine it's an alias for H78_Group6
+ This file source file is a part of Unix_CLI_GUI Project.
+ This project was developed by Muhammed Ashiq on Jan 6 2014.
+ Our Project is Known as OutputLook.
 
 *****************************************************************************/
 #include <fstream>
